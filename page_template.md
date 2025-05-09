@@ -24,7 +24,7 @@ My interests include *data analytics*, and `Python programming`.
 ## Projects
 
 ### Project 1: Traffic Analysis
-![Screenshot of project1](images/project1.png)  
+![Screenshot of project1](project1.png)  
 Using Python and the pandas and numpy packages I analyzed the data. Then I used the Matplotlib and Seaborn packages to visualize the data in a graph. We did this to look at the data in a much easier and simpler way to understand. Throughout this project I learned how to create graphs in python as well as how to sort through data.  
 
 [View the code](https://github.com/KHayes77/project1)
@@ -32,7 +32,7 @@ Using Python and the pandas and numpy packages I analyzed the data. Then I used 
 ---
 
 ### Project 2: Risk Analysis of Colorado and Idaho
-![Screenshot of project2](images/project2.png)  
+![Screenshot of project2](project2.png)  
 A short description of this project. What problem did it solve? What did you learn?
 In this project I used python using pandas and numpy packages to analyze and sort the data. Then I created my own risk analysis function to calculate the amount of risk for a certain natural disaster in each state and compared them against each other. This was done to compare the two states risks for certain natural disasters. From this project I learned how to sort large datasets and pick out the information that is more important and useful. 
 
