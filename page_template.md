@@ -27,7 +27,7 @@ My interests include *data analytics*, and `Python programming`.
 ![Screenshot of project1](project1.png)  
 Using Python and the pandas and numpy packages I analyzed the data. Then I used the Matplotlib and Seaborn packages to visualize the data in a graph. We did this to look at the data in a much easier and simpler way to understand. Throughout this project I learned how to create graphs in python as well as how to sort through data.  
 
-[View the code](project_1code.ipynb)
+[View the code](project1_code.ipynb)
 
 ---
 
