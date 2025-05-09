@@ -7,7 +7,7 @@ Welcome to my personal website! Here you'll find information about my background
 ## About Me
 
 I am an undergraduate student in Civil Engineering at the University of Nebraska-Lincoln.  
-My interests include *data analytics*, and `Python programming`.
+My interests include *data analytics*, and *Python programming*.
 
 ---
 
@@ -33,7 +33,6 @@ Using Python and the pandas and numpy packages I analyzed the data. Then I used 
 
 ### Project 2: Risk Analysis of Colorado and Idaho
 ![Screenshot of project2](images/project2.png)  
-A short description of this project. What problem did it solve? What did you learn?
 In this project I used python using pandas and numpy packages to analyze and sort the data. Then I created my own risk analysis function to calculate the amount of risk for a certain natural disaster in each state and compared them against each other. This was done to compare the two states risks for certain natural disasters. From this project I learned how to sort large datasets and pick out the information that is more important and useful. 
 
 ---
